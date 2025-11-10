@@ -23,7 +23,7 @@ cp env.example .env
 Open the `.env` file and add your actual API key:
 
 ```env
-GEMINI_API_KEY=AIzaSyC0CDmxGdAOXuRuTi5LwGiV-jQUKSgKrds
+GEMINI_API_KEY=
 ```
 
 ### Step 3: Verify `.env` is Ignored
