@@ -1,9 +1,5 @@
 # 🔒 Security Setup Guide
 
-## ⚠️ IMPORTANT: API Key Security
-
-Your API key was temporarily exposed in the code. **You should rotate/regenerate your Gemini API key immediately** if this code was committed to a public repository or shared.
-
 ## Setting Up Environment Variables
 
 ### Step 1: Create a `.env` file
